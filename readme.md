@@ -14,9 +14,9 @@ con el mongodb, backend y frontend para que todo funcione correctamente.
 
 <img src="assets/screenshots/2.png" height="500cm" />
 
-<img src="assets/screenshots/backend.png" height="500cm" />
+<img src="assets/screenshots/Backend.png" height="500cm" />
 
-<img src="assets/screenshots/frontend.png" height="500cm" />
+<img src="assets/screenshots/Frontend.png" height="500cm" />
 
 <img src="assets/screenshots/DatosMongoDB.png" height="500cm" />
 
